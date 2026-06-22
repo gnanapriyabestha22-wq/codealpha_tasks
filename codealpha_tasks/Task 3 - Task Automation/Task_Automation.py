@@ -1,7 +1,7 @@
 # ==========================================
 # Task Automation - File Renamer
 # CodeAlpha Python Internship Project
-# Author: Afrin
+# Author: Gnana Priya
 # ==========================================
 
 import os
