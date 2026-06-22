@@ -1,7 +1,7 @@
 # ==========================================
 # Stock Portfolio Tracker
 # CodeAlpha Python Internship Project
-# Author: Afrin
+# Author: Priya
 # ==========================================
 
 # Predefined stock prices
