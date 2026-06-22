@@ -88,7 +88,7 @@ Through this project, I learned:
 - How to build an interactive command-line application
 
 ## Author
-**Afrin**
+**B.GNANA PRIYA**
 
 ## Internship
 **CodeAlpha Python Programming Internship**
