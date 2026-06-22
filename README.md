@@ -6,9 +6,9 @@ Welcome to my project repository for the CodeAlpha Python Programming Internship
 
 Each task is self-contained with its own source code, documentation, and operational assets:
 
-* **[Task 1: Hangman Game](https://github.com/Afrin-D/codealpha_tasks/tree/main/codealpha_tasks/Task%201%20-%20Hangman%20Game/)** - An interactive, console-based word-guessing game featuring robust input validation and dynamic visual attempt updates.
-* **[Task 2: Stock Portfolio Tracker](https://github.com/Afrin-D/codealpha_tasks/tree/main/codealpha_tasks/Task%202%20-%20Stock%20Portfolio%20Tracker/)** - A financial data-handling utility that aggregates asset inputs, references structured stock metrics, and outputs clean tabular financial reports.
-* **[Task 3: Task Automation](https://github.com/Afrin-D/codealpha_tasks/tree/main/codealpha_tasks/Task%203%20-%20Task%20Automation/)** - A terminal utility script designed to interact with the file system using the `os` module to batch-rename files sequentially.
+* **[Task 1: Hangman Game](https://github.com/gnanapriyabestha22-wq/codealpha_tasks/tree/main/codealpha_tasks/Task%201%20-%20Hangman%20Game/)** - An interactive, console-based word-guessing game featuring robust input validation and dynamic visual attempt updates.
+* **[Task 2: Stock Portfolio Tracker](https://github.com/gnanapriyabestha22-wq/codealpha_tasks/tree/main/codealpha_tasks/Task%202%20-%20Stock%20Portfolio%20Tracker/)** - A financial data-handling utility that aggregates asset inputs, references structured stock metrics, and outputs clean tabular financial reports.
+* **[Task 3: Task Automation](https://github.com/gnanapriyabestha22-wq/codealpha_tasks/tree/main/codealpha_tasks/Task%203%20-%20Task%20Automation/)** - A terminal utility script designed to interact with the file system using the `os` module to batch-rename files sequentially.
 
 ## 🛠️ Skills & Technologies Applied
 * **Language:** Python 3
