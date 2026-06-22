@@ -74,7 +74,7 @@ Through this project, I learned:
 - How to build a command-line automation application
 
 ## Author
-**Afrin**
+**B.GNANA PRIYA**
 
 ## Internship
 **CodeAlpha Python Programming Internship**
